@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+body{
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.navLink{
+    border-bottom: 2px solid black;
+}
+.LogoImage{
+    width: 66px;
+    height: 66px;
+}
+.container{
+    width: 80%;
+}
+
+
+/* .heroSection{
+    background-image:'./src/images/airport-terminal.jpg';
+} */
